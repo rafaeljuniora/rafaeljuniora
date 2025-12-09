@@ -1,4 +1,7 @@
-## Hello👋 I'm Rafael Junior and this is my profile!
+## Hello👋 I'm Rafael Junior
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=33EB91&center=true&vCenter=true&width=480&lines=Full+Stack+Developer;React+%7C+Java+%7C+Python;Passionate+about+Technology;Always+learning;One+must+imagine+Sisyphus+happy!" alt="Typing SVG" />
+</div>
 
 <div align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=rafaeljuniora&show_icons=true&theme=merko&hide_border=false&show_owner=true" alt="stats" />
